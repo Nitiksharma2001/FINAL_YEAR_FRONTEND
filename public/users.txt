@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "role": "admin"
+  },
+  {
+    "_id": "2",
+    "name": "Dinesh Kola",
+    "email": "kola@gmail.com",
+    "role": "Doctor"
+  },
+  {
+    "_id": "3",
+    "name": "Yogesh",
+    "email": "oggy@gmail.com",
+    "role": "Doctor"
+  },
+  {
+    "_id": "3",
+    "name": "Aditya Mishra",
+    "email": "aditya@gmail.com",
+    "role": "Patient"
+  }
+]
